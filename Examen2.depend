@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1417900942 source:/home/turupawn/Projects/Clases/Estructura/Examen2/Evaluador.cpp
+	"Evaluador.h"
+
+1417896626 /home/turupawn/Projects/Clases/Estructura/Examen2/Evaluador.h
+	"Evaluador.h"
+	"NodoArbolTrinario.h"
+	"NodoGrafo.h"
+	<iostream>
+	<vector>
+	<set>
+
+1418006055 source:/home/turupawn/Projects/Clases/Estructura/Examen2/main.cpp
+	"Evaluador.h"
+	"NodoArbolTrinario.h"
+	"NodoGrafo.h"
+	<iostream>
+	<vector>
+
+1417895183 source:/home/turupawn/Projects/Clases/Estructura/Examen2/NodoArbolTrinario.cpp
+	"NodoArbolTrinario.h"
+
+1417895176 /home/turupawn/Projects/Clases/Estructura/Examen2/NodoArbolTrinario.h
+	<iostream>
+
+1417894999 source:/home/turupawn/Projects/Clases/Estructura/Examen2/NodoGrafo.cpp
+	"NodoGrafo.h"
+
+1417895198 /home/turupawn/Projects/Clases/Estructura/Examen2/NodoGrafo.h
+	<list>
+
